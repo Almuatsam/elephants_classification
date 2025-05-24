@@ -7,4 +7,5 @@ This notebook implements a binary image classification solution for detecting Af
 
 
 The dataset used: https://www.kaggle.com/datasets/vivmankar/asian-vs-african-elephant-image-classification
+
 The dataset contains elephants images classified as either African or Asian.

@@ -5,4 +5,6 @@ This notebook implements a binary image classification solution for detecting Af
 2. Improved CNN with BatchNormalization
 3. Pre-trained ResNet50 model
 
+
+The dataset used: https://www.kaggle.com/datasets/vivmankar/asian-vs-african-elephant-image-classification
 The dataset contains elephants images classified as either African or Asian.
